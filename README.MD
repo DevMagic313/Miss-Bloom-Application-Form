@@ -1,5 +1,3 @@
-Certainly! Below is a professional README file template for your project, "Miss Bloom Application Form." You can customize it further based on your specific project details, features, and requirements.
-
 ---
 
 # Miss Bloom Application Form
